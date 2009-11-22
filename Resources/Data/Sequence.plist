@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fileName</key>
+		<string>ATPRanking</string>
+		<key>style</key>
+		<string>1</string>
+		<key>accessory</key>
+		<string>0</string>
+		<key>rowHeight</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Capitals</string>
+		<key>style</key>
+		<string>0</string>
+		<key>accessory</key>
+		<string>1</string>
+		<key>rowHeight</key>
+		<integer>70</integer>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Menu</string>
+		<key>style</key>
+		<string>0</string>
+		<key>accessory</key>
+		<string>2</string>
+		<key>rowHeight</key>
+		<integer>44</integer>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Books</string>
+		<key>style</key>
+		<string>1</string>
+		<key>accessory</key>
+		<string>3</string>
+		<key>rowHeight</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>TVSeries</string>
+		<key>style</key>
+		<string>1</string>
+		<key>accessory</key>
+		<string>3</string>
+		<key>rowHeight</key>
+		<integer>44</integer>
+	</dict>
+</array>
+</plist>

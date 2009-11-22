@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Roger Federer</string>
+	<string>Rafael Nadal</string>
+	<string>Novak Djokovic</string>
+	<string>Andy Murray</string>
+	<string>Juan Martin Del Potro</string>
+	<string>Andy Roddick</string>
+	<string>Nicolay Davydenko</string>
+	<string>Fernando Verdasco</string>
+	<string>Robin Soderling</string>
+	<string>Jo-Wilfred Tsonga</string>
+	<string>Fernando González</string>
+	<string>Radek Stepanek</string>
+	<string>Gael Monfils</string>
+	<string>Marin Cilic</string>
+	<string>Gilles Simon</string>
+</array>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Software</string>
+		<key>values</key>
+		<array>
+			<string>The Mythical Man-Month</string>
+			<string>SQL for Dummies</string>
+			<string>Peopleware</string>
+			<string>Code Complete</string>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Business</string>
+		<key>values</key>
+		<array>
+			<string>Founders at Work</string>
+			<string>Commonwealth</string>
+			<string>The End of Poverty</string>
+			<string>The No-Asshole Rule</string>
+		</array>
+	</dict>
+</array>
+</plist>
