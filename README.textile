@@ -1,0 +1,65 @@
+h1. EasyTextView
+
+This project provides an easy-to-use set of classes to be used in the creation of iPhone applications prototypes.
+
+h2. Classes
+
+* The AKOEasyNavigationController class is a subclass of UINavigationController which automatically reads entries from a "sequence file" (in the sample project, this file is the Resources/Data/Sequence.plist file). The class loads instances of the AKOEasyTableViewController class each time the "loadNextScreen" method is called.
+* The AKOEasyTableViewController class has a "dataSource" property which can be set to either NSArray or NSDictionary instances. The "dataSourceFileName" property allows this data to be loaded from plist files instead.
+
+Property lists used with the AKOEasyTableViewController class must have one of these two structures:
+
+<pre>
+<plist version="1.0">
+<array>
+	<string>Roger Federer</string>
+	<string>Rafael Nadal</string>
+	<string>Novak Djokovic</string>
+	<string>Andy Murray</string>
+	<string>Juan Martin Del Potro</string>
+	<string>Andy Roddick</string>
+	<string>Nicolay Davydenko</string>
+	<string>Fernando Verdasco</string>
+	<string>Robin Soderling</string>
+	<string>Jo-Wilfred Tsonga</string>
+	<string>Fernando González</string>
+	<string>Radek Stepanek</string>
+	<string>Gael Monfils</string>
+	<string>Marin Cilic</string>
+	<string>Gilles Simon</string>
+</array>
+</plist>
+</pre>
+
+<pre>
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Software</string>
+		<key>values</key>
+		<array>
+			<string>The Mythical Man-Month</string>
+			<string>SQL for Dummies</string>
+			<string>Peopleware</string>
+			<string>Code Complete</string>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Business</string>
+		<key>values</key>
+		<array>
+			<string>Founders at Work</string>
+			<string>Commonwealth</string>
+			<string>The End of Poverty</string>
+			<string>The No-Asshole Rule</string>
+		</array>
+	</dict>
+</array>
+</plist>
+</pre>
+
+h2. License
+
+This project is licensed with a liberal BSD license. See the LICENSE file for details.
